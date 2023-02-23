@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = 'AIzaSyB_0t4ODy1VMPX49E08191DavsyLExEJMY';
+const GOOGLE_API_KEY = '';
 
 
 export function getMapPreview(lat, lng) {
